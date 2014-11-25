@@ -6,6 +6,11 @@ Rails.application.routes.draw do
   get '/burlington' => 'home#burlington'
   get '/echo' => 'home#echo'
   get '/registry' => 'home#registry'
+  get '/guestbook' => 'home#guestbook'
+  get '/about_us' => 'home#about_us'
+  get '/wedding_party' => 'home#wedding_party'
+  get '/faq' => 'home#faq'
+  get '/guests/index' => 'guests#index'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
