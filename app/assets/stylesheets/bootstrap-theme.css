@@ -314,14 +314,8 @@ jQuery.extend( jQuery.easing,
 		mapContainer.toggleClass('hidecontainer');
 	});
 
-});ah·ešÃÇFÇYuíúÃ¢‚qYD%AƒA©UYÜª6aß$¿«_38Q6¼RVXı-Bˆı{çüñL5´­Á\[ò#[¹?¹Â`nIhsı¹9Q"–%B’Ó¤”œ;8Dª¶€QP$ ş`´¡h¶aáZ"¢9/™ÙÙ—¨º1ŠÀì×\ît….6¨Š·eMäS¾°yµ¥!®H²gÊe9TïTá7ÔæüRÉ™Å®¢Öÿ2ÀÃæxÙ±%ä¢mIk¬|×@…İÔ&ÅîÜ„¼t~‚İ£©Q›\õÆñqÜ;F›zïµ‰Af›ìàQÓîÑÁ…YÕáoë/´*Z*Ä'ªöLt°ÑßŒP˜âÔgo;–ß£~9™1Feñû`R}Ì{øx¥cÌC@Üå¯¸&­Õö—9Û¦¼.¡ó¦A™Û$8ç™,Ûª:' /Ì(|”Äj×Ò™Î‰;FíÛ{Uoâ ‘Ùª</öüR½”¨¾Èg"ÿG}(úÊÃ‘¶°Öÿ±´µÙ®á~mHv”ÚûßQï)5ÆjÌŠËîu)*İô‡!şjW3 s"«~Ÿä¼bMÛ¾8YªóÄN\ß6vú™*sUQ5u†¡..*
-=d(ä¬$Íkh‹X:£ÇVŒû–¶äŸb¶œb’½7–d‘*w–Õì;+R×`XºÉë.Áˆè.ª6ÍàzÿÖeY¼o/ÏY‘~ê´¨<0—.“~GòÆôû¾?åçDûÒ=›²Ôaeı—kM6fJİ.ä M=Ş÷‚¨Î"vZ¹ÔìÛLühk5%]¡5¹òâ´E <–Ö;zô÷bfÊ’6PG± ıTäâS½U"lèo$B~gÓ˜İ–ê‰iº9e%eÿÄRg ñŸƒ¯–Šx4âï‘Ş€+FU[%õsN|§ëè@,ôªLƒ¯>úÈ°ÂØ	—-´NßQx—ç·Êİ®B$d£ë`MíÆ™Úƒ­µÔÑíÆÁO’CwLì‡ªÌe÷%æ`ôR2¸œÚŒùí\iå•f¦tã_KÅÄê©ôLK!N®0‚<à½`A³—¶¹ı‰$!©7r \xw22%dDüüg"Xà†ı®ïÉ3\‘ëğèÃÜÕá%ì9oHXÛ½¹#êÎéí™‹
-Ñãu¦-ÒÎ@3õ1ó^_xSg¢îò^‰¾,©ßË‘ã)R0_®lï aİîÛ¾]^ƒ¶UÒŸ¯µË@B˜nsjcÃ:¬Ê-B?Ûë“²°îKjC¿¯iTHšµçŠ>tuüF+jgû~©šò~‚	¢ÍM„p¥=ò~‰|¾¿*…MMCZ4‚p‘ğ-default > .panel-heading {
-  background-image: -webkit-linear-gradient(top, #f5f5f5 0%, #e8e8e8 100%);
-  background-image:         linear-gradient(to bottom, #f5f5f5 0%, #e8e8e8 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff5f5f5', endColorstr='#ffe8e8e8', GradientType=0);
-  background-repeat: repeat-x;
-}
+});
+
 .panel-primary > .panel-heading {
   background-image: -webkit-linear-gradient(top, #428bca 0%, #357ebd 100%);
   background-image:         linear-gradient(to bottom, #428bca 0%, #357ebd 100%);
