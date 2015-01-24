@@ -14,8 +14,11 @@
 ActiveRecord::Schema.define(version: 20141107182913) do
 
   create_table "guests", force: true do |t|
-    t.datetime "created_at"
-    t.datetime "updated_at"
+    t.string  "code"
+    t.text    "city"
+    t.string  "song"
+    t.boolean "attending"
+    t.integer "guests_number"
   end
 
 end
