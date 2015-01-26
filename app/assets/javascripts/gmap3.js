@@ -69,8 +69,9 @@
           ImageMapType      : google.maps.ImageMapType
         },
         map: {
+          address: "Burlington, VT",
           mapTypeId : google.maps.MapTypeId.ROADMAP,
-          center: [46.578498, 2.457275],
+          // center: [44.476792, -73.220705],
           zoom: 2
         },
         overlay: {

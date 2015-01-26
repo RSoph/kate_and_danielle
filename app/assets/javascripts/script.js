@@ -42,14 +42,14 @@ $(document).ready(function() {
 	$("#maps").gmap3({
 		 map:{
 		    options:{
-		      center:[-7.867555,110.388502],
+		      center:[44.476792, -73.220705],
 		      zoom: 16,
 			  scrollwheel: false
 		    }
  		 },
  		 marker:{
  		 	values : [
- 		 		{latLng:[-7.867555,110.388502],data:'<img src="https://dl.dropboxusercontent.com/u/29545616/Preview/ditinggalrabi.png">',  options:{icon: 'https://dl.dropboxusercontent.com/u/29545616/Preview/location.png'}}
+ 		 		{latLng:[44.476475, -73.221296],data:'<img src="https://dl.dropboxusercontent.com/u/29545616/Preview/ditinggalrabi.png">',  options:{icon: 'https://dl.dropboxusercontent.com/u/29545616/Preview/location.png'}}
  		 	],
  		 	events : {
  		 	 click: function(marker, event, context){
@@ -69,6 +69,7 @@ $(document).ready(function() {
 		      }
  		 }
  		 }
+ 		 
 
 	});
 	
